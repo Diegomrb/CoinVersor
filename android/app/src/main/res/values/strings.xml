@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">convertidor</string>
+    <string name="title_activity_main">convertidor</string>
+    <string name="package_name">coinverter.app</string>
+    <string name="custom_url_scheme">coinverter.app</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "appId": "coinverter.app",
+  "appName": "convertidor",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

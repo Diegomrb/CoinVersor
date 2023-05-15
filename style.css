@@ -1,0 +1,39 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  background-color: #fafbff;
+}
+
+img {
+  width: 70%;
+}
+
+.difColor {
+  background-color: rgb(224, 224, 224);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.btn {
+  font-weight: bolder;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  height: 3em;
+}
+
+.form-control {
+  height: 3em;
+  background-color: #fafbff;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.form-select {
+  height: 4em;
+}
+
+.card {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
